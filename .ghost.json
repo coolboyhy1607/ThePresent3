@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "ghostadmin.thepresent.xxx",
+    "apiUrl": "https://ghostadmin.thepresent.xxx",
     "contentApiKey": "30230d31ee8018af191a808c8b"
   },
   "production": {
-    "apiUrl": "ghostadmin.thepresent.xxx",
+    "apiUrl": "https://ghostadmin.thepresent.xxx",
     "contentApiKey": "30230d31ee8018af191a808c8b"
   }
 }
